@@ -6,7 +6,7 @@ set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 
-set(CMAKE_PREFIX_PATH "/home/gms/app/Qt/6.7.3/gcc_64")
+set(CMAKE_PREFIX_PATH "qt安装目录/6.7.3/gcc_64")
 
 find_package(Qt6 COMPONENTS
         Core
